@@ -52,13 +52,28 @@ const questions = (
     e-mail,
 
 }) =>{
-const template = `# ${title}`
+const data = `# ${title}`
+* [Installation]
+* [Instructions]
+* [Credits]
+* [License]
 
-}
-)
-
+# Contact
+* GitHub: ${git}
+* LinkedIn: ${linkedin}
+* E-mail: ${email}
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data); 
+}
+);
+
+//creating writeToFile function
+function writeToFile(` ./${fileName.toLowerCase().split(' ').join('')}.md`.data.(err) =>){
+    if(err) {
+        console.log(error)
+    }
+    console.log('Your README has been created!');
+};
 
 // TODO: Create a function to initialize app
 function init() {}
