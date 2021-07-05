@@ -28,7 +28,7 @@ const questions = (
         {
             type:'list',
             message:'What license did you use?',
-            name:'credits',
+            name:'license',
             choices:['MIT', 'GPL', 'Apache', 'GNU', 'Other', 'N/A'],
         },
         {
@@ -42,6 +42,19 @@ const questions = (
             name:'e-mail',
         }
 ]
+).then(({
+    title,
+    installation,
+    instructions,
+    credits,
+    license,
+    githubname,
+    e-mail,
+
+}) =>{
+
+
+}
 )
 
 // TODO: Create a function to write README file
