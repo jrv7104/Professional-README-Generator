@@ -17,8 +17,13 @@ const questions = (
         }
         {
             type:'input',
-            message:'?',
-            name:'installation',
+            message:'What are your instructions for using the app?',
+            name:'instructions',
+        }
+        {
+            type:'input',
+            message:'Who is credited for the function and creativity of the app?',
+            name:'credits',
         }
 
 ]
