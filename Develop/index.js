@@ -49,7 +49,7 @@ const questions = (
     credits,
     license,
     githubname,
-    e-mail,
+    email,
 
 }) =>{
 const data = `# ${title}`
