@@ -7,7 +7,7 @@ const questions = (
     [
         {
             type: 'input',
-            message="What is the title of your project?",
+            message: "What is the title of your project?",
             name: 'title',
         },
         {
@@ -68,7 +68,7 @@ function writeToFile(fileName, data);
 );
 
 //creating writeToFile function
-function writeToFile(` ./${fileName.toLowerCase().split(' ').join('')}.md`.data.(err) =>){
+function writeToFile(`${fileName.toLowerCase().split(' ').join('')}.md`.data.(err) =>){
     if(err) {
         console.log(error)
     }
