@@ -58,8 +58,8 @@ const data = `# ${title}`
 * [Credits]
 * [License]
 
-# Contact
-* GitHub: ${git}
+* Contact
+* GitHub ${git}
 * LinkedIn: ${linkedin}
 * E-mail: ${email}
 // TODO: Create a function to write README file
