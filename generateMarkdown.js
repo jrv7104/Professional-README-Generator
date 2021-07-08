@@ -28,19 +28,19 @@ function generateMarkdown(data) {
 ${data.installation}
 
 ## Instructions
-${instructions}
+${data.instructions}
 
 ## Credits
-${credits}
+${data.credits}
 
 ## License
 ${licenseReadme}
 
 ## Github Name
-${githubname}
+${data.githubname}
 
 ## E-mail
-${email}
+${data.email}
 
 `;
 }
