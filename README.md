@@ -1,16 +1,16 @@
-# README Generator
+# README Tutorial
 
 ## Installation
-N/A
+Double click on app, then select location of where you want the app to be installed.
 
 ## Instructions
-This is a readme generator that can be used for other projects. Once this file runs the node index.js command in the terminal the user will be prompted with several questions about the project. The responses will be kept, and a readme file will be created with the information provided.
+Enter information when prompted, then select desired options.
 
 ## Credits
 Jason Viox
 
 ## License
-no license provided or license outside of list
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## GitHub Name
 jrv7104
@@ -19,5 +19,5 @@ jrv7104
 https://github.com/jrv7104
 
 ## E-mail
-undefined
+jrv04@hotmail.com
 
