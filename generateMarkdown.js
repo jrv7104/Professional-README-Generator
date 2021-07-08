@@ -27,8 +27,21 @@ function generateMarkdown(data) {
 ## Installation
 ${data.installation}
 
+## Instructions
+${instructions}
+
+## Credits
+${credits}
+
 ## License
 ${licenseReadme}
+
+## Github Name
+${githubname}
+
+## E-mail
+${email}
+
 `;
 }
 
