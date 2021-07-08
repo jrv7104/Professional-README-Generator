@@ -46,7 +46,7 @@ inquirer.prompt(
         {
             type:'input',
             message:'Please enter your e-mail address.',
-            name:'e-mail',
+            name:'email',
         }
 ]
 ).then((answers) =>{
