@@ -40,7 +40,7 @@ inquirer.prompt(
         },
         {
             type:'input',
-            message:'Share a link to your GitHub account.'
+            message:'Share a link to your GitHub account.',
             name:'githublink',
         },
         {

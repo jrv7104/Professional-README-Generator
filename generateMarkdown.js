@@ -44,8 +44,11 @@ ${data.credits}
 ## License
 ${licenseReadme}
 
-## Github Name
+## GitHub Name
 ${data.githubname}
+
+## GitHub Link
+${data.githublink}
 
 ## E-mail
 ${data.email}
